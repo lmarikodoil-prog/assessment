@@ -109,7 +109,7 @@ function assessment(userName) {
 function test() {
   console.log('診断結果の文章のテスト');
 
-  //太郎
+  //太郎 
   console.log('太郎');
   console.assert(
     assessment('太郎') ===
